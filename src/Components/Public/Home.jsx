@@ -31,7 +31,7 @@ const Home = () => {
                     <div className="row justify-content-center">
                         <div className="col-md-9">
                             <h5 className='text-center py-3'>
-                                Do you want to know how Likely you will get a job ?
+                                Do you want to know how likely you will get a job ?
                             </h5>
                             <div className='d-flex justify-content-center align-items-center'>
                                 <CustomButton extra={""} type={"button"} fun={CheckCVAnalyzer} text="View Now" />
@@ -40,7 +40,7 @@ const Home = () => {
 
                         <div className="col-md-9 ">
                             <h5 className='text-center py-3'>
-                                Do you want Perfect dight for you weight ?
+                                Do you want perfect diet for you weight ?
                             </h5>
                             <div className='d-flex justify-content-center align-items-center'>
                                 <CustomButton extra={""} type={"button"} fun={CheckDightAnalyzer} text="View Now" />
